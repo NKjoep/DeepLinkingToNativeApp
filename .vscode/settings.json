@@ -1,0 +1,17 @@
+{
+  "files.exclude": {
+    "**/.git": false,
+    "**/.DS_Store": false,
+    "**/node_modules": false,
+    "node_modules": false,
+    "**/bower_components": false,
+    "bower_components": false,
+    "**/*.ngfactory.ts": false,
+    "**/*.map": false,
+    "**/*.scss.ts": false,
+    "**/*.scss.shim.ts": false,
+    "package-lock.json": "explorerExcludedFiles",
+    ".vscode": "explorerExcludedFiles",
+    ".DS_Store": "explorerExcludedFiles"
+  }
+}
